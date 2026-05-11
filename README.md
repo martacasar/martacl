@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martacl
 - 👀 I’m interested in speech technologies
-- 🌱 I’m currently learning curl and python
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on LLM developments
 - 📫 How to reach me: marta.casar@gmail.com
 
